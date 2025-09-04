@@ -7,6 +7,6 @@ class Solution:
             for n in nums:
                 ans.append(n)
         """
-        ans = []
+        #ans = []
         ans = nums + nums
         return ans
