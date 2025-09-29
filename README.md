@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
@@ -71,6 +72,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
