@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0860-design-circular-queue](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0860-design-circular-queue) |
 | [2058-concatenation-of-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
