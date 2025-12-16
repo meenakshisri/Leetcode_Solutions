@@ -8,12 +8,10 @@ class Solution:
         while l<=r :
             totalWeight = people[l]+people[r]
             if totalWeight <= limit:
-                count +=1
                 l +=1
-                r -=1
-            else:           # totalWeight > limit:
-                count +=1
-                r -=1
+                      # totalWeight > limit:
+            count +=1
+            r -=1
             
         return count
 
