@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0860-design-circular-queue](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0860-design-circular-queue) |
+| [0881-boats-to-save-people](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [2058-concatenation-of-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
