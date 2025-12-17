@@ -8,7 +8,7 @@ class Solution:
             area = min(height[l], height[r]) * (r-l)
             res = max(res, area)
 
-            if height[l]< height[r]:
+            if height[l]<= height[r]:
                 l +=1
             else:
                 r -=1
