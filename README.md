@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Binary Search
