@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0860-design-circular-queue](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0860-design-circular-queue) |
 | [0881-boats-to-save-people](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [2058-concatenation-of-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
