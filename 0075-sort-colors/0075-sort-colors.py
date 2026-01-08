@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        
+        #Dutch National Flag algorithm
         start, mid, end = 0, 0, len(nums)-1
 
         while mid<=end:
@@ -20,4 +20,4 @@ class Solution:
                 #nums[mid] == 2
                 nums[mid], nums[end] = nums[end], nums[mid]
                 end -=1
-                
+
