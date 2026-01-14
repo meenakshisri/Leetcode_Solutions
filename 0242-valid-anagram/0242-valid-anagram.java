@@ -1,24 +1,22 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         
-        //check Edge case
-        if(s.length() != t.length())
+        if(s.length()!=t.length())
         {
             return false;
         }
 
-        //creating an array of size 26 for 26 alphabets
-        int[] count = new int[26];
+        int char_arr[] = new int[26];
 
-        for(int i = 0; i< s.length(); i++)
+        for(int i=0; i<s.length(); i++)
         {
-            count[s.charAt(i)-'a']++;
-            count[t.charAt(i)-'a']--;
+            char_arr[s.charAt(i)-'a']++;
+            char_arr[t.charAt(i)-'a']--;
         }
 
-        for(int c : count)
+        for(int count : char_arr)
         {
-            if(c!=0)
+            if(count != 0)
             {
                 return false;
             }
