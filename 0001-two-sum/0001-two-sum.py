@@ -1,11 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        my_hashMap = {}
+        
+        numsDict = {}
 
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            
-            if complement in my_hashMap:
-                return i, my_hashMap.get(complement)
+        for i, val in enumerate(nums):
+            comp = target - val
 
-            my_hashMap[nums[i]] = i
+            if comp in numsDict :
+                return [i, numsDict[comp]]
+            numsDict[val] = i
+
+        return []
+
+        
