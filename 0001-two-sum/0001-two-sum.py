@@ -3,7 +3,7 @@ class Solution:
         
         numsDict = {}  #Using dictionary to store record for Key, Value pair
 
-        for i, val in enumerate(nums):
+        for i, val in enumerate(nums):  # important point to note
             comp = target - val
 
             if comp in numsDict :
