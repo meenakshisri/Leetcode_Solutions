@@ -7,7 +7,6 @@ class Solution:
 
             if ch == '(' or ch == '{' or ch == '[' :
                 stack.append(ch)
-
             elif ch == ')':
                 if not stack or stack.pop() != '(':
                     return False
