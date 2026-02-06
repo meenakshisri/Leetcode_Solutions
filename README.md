@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0860-design-circular-queue](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0860-design-circular-queue) |
 | [0881-boats-to-save-people](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1929-concatenation-of-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
