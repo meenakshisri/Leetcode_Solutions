@@ -3,11 +3,11 @@ class Solution:
         
         prefix = strs[0]
 
-        for s in strs[1:]:
-            while not s.startswith(prefix):
-                prefix = prefix[:-1]
-                if not prefix :
-                    return ""
+        for i in range(len(strs[0])):
+
+            for str in strs:
+
+                if (i ==len(str)) or (prefix[i] != str[i]):
+                    return prefix[:i]
 
         return prefix
-
