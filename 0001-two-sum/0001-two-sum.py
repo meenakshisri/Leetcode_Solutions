@@ -1,15 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
-        numsDict = {}  #Using dictionary to store record for Key, Value pair
+        dict = {}
 
-        for i, val in enumerate(nums):  # important point to note
-            comp = target - val
+        for i in range(len(nums)):
 
-            if comp in numsDict :
-                return [i, numsDict[comp]]
-            numsDict[val] = i
+            diff = target - nums[i]
+
+            if diff in dict :
+                return [i, dict[diff]]
+
+            dict[nums[i]] = i
 
         return []
-
-        
