@@ -1,30 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         
-        if len(s) != len(t) :
+        if len(s) != len(t):
             return False
-
-        count = [0] * 26
-        for char in s:
-            count[ord(char)-ord('a')] += 1 # important 
         
-        for char in t:
-            count[ord(char)-ord('a')] -=1
+        arr = [0]*26
+
+        for char in s:
+            arr[ord(char)-ord('a')] += 1
+
+        for char in t: 
+            arr[ord(char)-ord('a')] -= 1
 
         for i in range(26):
-            if count[i] != 0:
+            if arr[i] != 0 :
                 return False
         return True
 
-        """
-        return sorted(s) == sorted(t)
-
-        #or
-
-        return Counter(s) == Counter(t)
-        """
-    
-
-        
-        
-        
