@@ -1,21 +1,28 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
 
-        l, r = 0, len(s)-1
+        left = 0
+        right = len(s)-1
 
-        while l<r:
-            while l<r and not self.alphanum(s[l]) :
-                l = l+1
+        while left<right :
 
-            while l<r and not self.alphanum(s[r]):
-                r= r-1
-                
-            if s[l].lower() != s[r].lower() :
+            while left<right and not self.isalphanum(s[left]) :
+                left += 1
+            while left<right and not self.isalphanum(s[right]):
+                right -= 1
+            if s[left].lower() != s[right].lower() :
                 return False
-                
-            l,r = l+1, r-1
+            left += 1
+            right -= 1
+        
         return True
 
-    def alphanum(self, c):
-        return (ord('A') <= ord(c)<=ord('Z') or ord('a') <= ord(c) <= ord('z') or ord('0') <= ord(c) <= ord('9'))
+    def isalphanum(self, ch)->bool :
+        if ((ord('A')<=ord(ch)<=ord('Z')) or 
+        (ord('a')<=ord(ch)<=ord('z')) or
+        (ord('0')<=ord(ch)<=ord('9'))):
+            return True
+
+    
+
         
