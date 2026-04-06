@@ -1,16 +1,15 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
-        
-        left, right = 0, len(s)-1
+
+        left = 0
+        right =len(s)-1
 
         while left<right:
-            if s[left] != s[right]:
-                skipL = s[left+1:right+1]
-                skipR = s[left:right]
-                if((skipL == skipL[::-1]) or (skipR == skipR[::-1])):
-                    return True
-                else:
-                    return False
-            left, right = left +1, right-1
-
+            if s[left] != s[right] :
+               skipL, skipR = s[left+1: right+1], s[left : right]
+               return (skipL == skipL[::-1] or skipR == skipR[::-1])
+            left += 1
+            right -= 1
+        
         return True
+
