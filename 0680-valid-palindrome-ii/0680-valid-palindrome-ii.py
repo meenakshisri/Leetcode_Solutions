@@ -1,15 +1,35 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
 
-        left = 0
-        right =len(s)-1
+        l, r = 0, len(s)-1
 
-        while left<right:
-            if s[left] != s[right] :
-               skipL, skipR = s[left+1: right+1], s[left : right]
-               return (skipL == skipL[::-1] or skipR == skipR[::-1])
-            left += 1
-            right -= 1
+        while l<r:
+            if s[l] != s[r]:
+                return ((self.isPalindrome(s, l+1, r)) or
+                (self.isPalindrome(s, l, r-1)))
+
+            l = l+1
+            r = r-1
         
         return True
 
+    def isPalindrome(self, s, l, r):
+
+        while l<r:
+            if s[l] != s[r]:
+                return False
+
+            l = l+1
+            r = r-1
+        
+        return True
+            
+
+
+            
+
+
+
+        
+        
+        
