@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Stack
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0704-binary-search) |
