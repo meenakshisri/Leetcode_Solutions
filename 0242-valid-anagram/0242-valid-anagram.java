@@ -6,23 +6,31 @@ class Solution {
             return false;
         }
 
-        int[] arr = new int[26];
-        for(int i = 0; i<s.length(); i++)
+        int[] charArr = new int[26];
+        int i = 0;
+        while(i<26)
         {
-            arr[s.charAt(i)-'a']++;
+            charArr[i] = 0;
+            i++;
         }
 
-        for(int i = 0; i<t.length(); i++)
+        for(i = 0; i<s.length(); i++)
         {
-            arr[t.charAt(i)-'a']--;
+            char ch = s.charAt(i);
+            charArr[ch-'a']++;
         }
 
-        for(int i=0; i<26; i++)
+        for(int j = 0; j<t.length(); j++)
         {
-            if(arr[i] != 0)
+            char ch = t.charAt(j);
+            charArr[ch-'a']--;
+        }
+
+        for(int ch: charArr)
+        {
+            if(ch!=0)
                 return false;
         }
-
         return true;
     }
 }
