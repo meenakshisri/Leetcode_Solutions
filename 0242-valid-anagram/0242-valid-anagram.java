@@ -7,14 +7,8 @@ class Solution {
         }
 
         int[] charArr = new int[26];
-        int i = 0;
-        while(i<26)
-        {
-            charArr[i] = 0;
-            i++;
-        }
 
-        for(i = 0; i<s.length(); i++)
+        for(int i = 0; i<s.length(); i++)
         {
             char ch = s.charAt(i);
             charArr[ch-'a']++;
