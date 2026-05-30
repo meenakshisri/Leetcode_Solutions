@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0860-design-circular-queue](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0860-design-circular-queue) |
 | [0881-boats-to-save-people](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1929-concatenation-of-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
 | ------- |
