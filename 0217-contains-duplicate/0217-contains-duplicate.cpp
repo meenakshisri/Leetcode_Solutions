@@ -6,11 +6,11 @@ public:
 
         for(int num : nums)
         {
-            if(s.find(num) != s.end())
+            if(s.find(num) != s.end()) //O(1)
             {
                 return true;
             }
-            s.insert(num);
+            s.insert(num);  //O(1) for unordered set, and O(log n) for ordered set
         }
         return false;
         
