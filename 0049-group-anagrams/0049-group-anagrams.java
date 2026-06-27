@@ -13,7 +13,7 @@ class Solution {
         {
             mp.put(str, new ArrayList<>());
         }
-        mp.get(str).add(s);
+        mp.get(str).add(s); //Using add as the map.get() here will return a list.
       }
 
       return new ArrayList<>(mp.values());
