@@ -1,6 +1,7 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
 
+        #Using KADANE'S ALGO
         curr_sum = 0
         max_sum = nums[0]
 
