@@ -14,10 +14,6 @@ class Solution {
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
 
-        if (list1 == null && list2 == null) {
-            return null;
-        }
-
         while (list1 != null && list2 != null) {
             if (list1.val <= list2.val) {
                 curr.next = list1;
@@ -29,12 +25,7 @@ class Solution {
             curr = curr.next;
         }
 
-        if (list1 != null) {
-            curr.next = list1;
-        }
-        if (list2 != null) {
-            curr.next = list2;
-        }
+        curr.next = (list1 != null)? list1 :list2;
 
         return dummy.next;
 
