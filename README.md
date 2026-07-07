@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
 ## Trie
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
 | ------- |
