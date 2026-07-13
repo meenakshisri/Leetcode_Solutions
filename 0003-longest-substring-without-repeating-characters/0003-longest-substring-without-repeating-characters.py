@@ -5,7 +5,7 @@ class Solution:
         maxSize = 0
 
         for r in range(len(s)):
-            while s[r] in window:
+            while s[r] in window: # WHILE not IF
                 window.remove(s[l])
                 l = l+1
             window.add(s[r])
