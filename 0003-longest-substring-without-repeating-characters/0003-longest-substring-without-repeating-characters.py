@@ -5,14 +5,11 @@ class Solution:
         maxSize = 0
 
         for r in range(len(s)):
-
             while s[r] in window:
                 window.remove(s[l])
                 l = l+1
             window.add(s[r])
-        
-            maxSize = max(maxSize, r-l+1)
 
-        return maxSize
-            
+            maxSize = max(maxSize, len(window))
         
+        return maxSize
