@@ -9,14 +9,13 @@ class Solution:
 
         res = []
 
-        def dfs(node):
-            if node is None:
+        def preorder(node):
+            if not node:
                 return None
-            
-            res.append(node.val)
-            dfs(node.left)
-            dfs(node.right)
 
-        dfs(root)
+            res.append(node.val)
+            preorder(node.left)
+            preorder(node.right)
+
+        preorder(root)
         return res
-        
