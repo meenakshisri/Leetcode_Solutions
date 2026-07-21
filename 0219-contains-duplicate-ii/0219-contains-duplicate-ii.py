@@ -6,7 +6,7 @@ class Solution:
 
         for r in range(len(nums)):
 
-            if len(window)>k:
+            if r-l>k:
                 window.remove(nums[l])
                 l = l+1
 
