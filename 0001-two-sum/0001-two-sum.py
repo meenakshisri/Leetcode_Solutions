@@ -1,18 +1,20 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
-        hashMap = dict()
+        dict = {}
 
-        for i, num in enumerate(nums):
+        for i in range(len(nums)):
+            diff = target - nums[i]
 
-            diff = target - num
+            if diff in dict:
+                return [i, dict[diff]]
 
-            if diff in hashMap:                
-                return [i, hashMap[diff]]
-            
-            hashMap[num] = i
+            dict[nums[i]] = i
 
         return []
-    
+
+
+
+
 
         
