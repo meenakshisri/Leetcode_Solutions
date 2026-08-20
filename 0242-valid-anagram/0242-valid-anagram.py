@@ -4,20 +4,13 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        arr = [0] * 26
-        for ch in s:
-            arr[ord(ch) - ord('a')] += 1
-        
-        for ch in t:
-            arr[ord(ch) - ord('a')] -= 1
-        
-        for n in arr:
-            if n != 0:
+        count = [0] * 26
+        for ch1, ch2 in zip(s, t):
+            count[ord(ch1)-ord('a')] += 1
+            count[ord(ch2)-ord('a')] -= 1
+
+        for num in count:
+            if num != 0:
                 return False
         return True
-
-
-
-        
-
         
