@@ -9,13 +9,12 @@ class Solution:
 
         res = []
 
-        def preorder(node):
-            if not node:
+        def preorder(root):
+            if not root:
                 return None
-
-            res.append(node.val)
-            preorder(node.left)
-            preorder(node.right)
-
+            res.append(root.val)
+            preorder(root.left)
+            preorder(root.right)
         preorder(root)
         return res
+        
