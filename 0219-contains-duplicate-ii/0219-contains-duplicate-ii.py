@@ -10,7 +10,7 @@ class Solution:
                 return True
             window.add(nums[r])
             if len(window)>k:
-                window.discard(nums[l])
+                window.remove(nums[l])
                 l += 1
         return False
 
