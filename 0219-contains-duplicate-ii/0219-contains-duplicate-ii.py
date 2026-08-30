@@ -6,16 +6,12 @@ class Solution:
 
         for r in range(len(nums)):
 
-            if r-l>k:
-                window.remove(nums[l])
-                l = l+1
-
             if nums[r] in window:
                 return True
             window.add(nums[r])
-
+            if len(window)>k:
+                window.discard(nums[l])
+                l += 1
         return False
-
-        
 
         
