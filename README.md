@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Interactive
 |  |
 | ------- |
