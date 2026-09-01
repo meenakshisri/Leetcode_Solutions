@@ -10,7 +10,7 @@ class Solution:
                 window.remove(s[l])
                 l += 1
             window.add(s[r])
-            length = max(length, len(window))
+            length = max(length, len(window)) # can use r-l+1 also in place of len (window)
         
         return length
         
