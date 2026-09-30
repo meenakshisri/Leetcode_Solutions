@@ -1,6 +1,7 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
 
+#Don't use String concatenation as it will increase overhead due to multiple concatenations. So,instead use List
         res = []
         i = 0
 
