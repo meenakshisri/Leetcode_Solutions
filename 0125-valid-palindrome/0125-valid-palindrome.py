@@ -4,7 +4,7 @@ class Solution:
         r = len(s)-1
 
         while l<r:
-            while l<r and not self.isalphanum(s[l]):
+            while l<r and not self.isalphanum(s[l]): #or use s[l].isalnum()
                 l = l+1
             while l<r and not self.isalphanum(s[r]):
                 r = r-1
