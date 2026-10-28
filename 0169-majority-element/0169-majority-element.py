@@ -1,13 +1,17 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        
-        #BOYER-MOORE ALGO
-        res, count = 0, 0
+    def majorityElement(self, nums: list[int]) -> int:
+        #boyer moore voting algorithm
+        candidate = 0
+        count = 0
 
-        for n in nums:
+        for num in nums:
             if count == 0:
-                res = n
-            
-            count += ( 1 if n == res else -1)
-
-        return res
+                candidate = num
+                count = 1
+            else:
+                if num == candidate:
+                    count = count+1
+                else:
+                    count = count-1
+        return candidate
+        
