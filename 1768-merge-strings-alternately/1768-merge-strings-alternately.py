@@ -1,20 +1,17 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
 
-        #Don't use String concatenation as it will increase overhead due to multiple concatenations. So,instead use List
-        res = []
-        i = 0
+        n = min(len(word1), len(word2))
 
-        while i<len(word1) and i<len(word2):
+        #As String is immutable, we are using Array to append characters
+        res = []
+
+        for i in range(n):
             res.append(word1[i])
             res.append(word2[i])
-            i = i+1
-
-        res.append(word1[i:])
-        res.append(word2[i:])
-
-        return ''.join(res)
-
-
         
-    
+        res.append(word1[n:])
+        res.append(word2[n:])
+
+        return "".join(res)
+
