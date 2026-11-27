@@ -1,19 +1,15 @@
 class Solution {
 public:
     int hammingWeight(int n) {
-
-        string res ="";
+        
         int count = 0;
-        while(n!=1)
+        //Brian Kernighan's algorithm :  n = n & n-1 --> removes righmost set bit
+        while(n>0)
         {
-            int rem = n%2;
-            if(rem == 1)
-            {
-                count++;
-            }
-            res = to_string(rem) + res;
-            n = n/2;
+            n = n & n-1;
+            count++;
         }
-        return count+1;
+
+        return count;
     }
 };
