@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
@@ -332,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
