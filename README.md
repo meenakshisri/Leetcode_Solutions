@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/meenakshisri/Leetcode_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
